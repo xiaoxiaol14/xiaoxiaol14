@@ -1,0 +1,4 @@
+  System.out.println(); 
+      System.out.println("Creating subscriber..."); 
+      s = new CDSBillingSubscriber(clientID, subName, 
+          selector, durable,transactional, jndiCtxFactory, 
