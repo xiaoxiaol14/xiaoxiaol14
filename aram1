@@ -1,0 +1,5 @@
+        if (param1 != null) 
+        fInfo.put("loginId", param1); 
+    } 
+ 
+    public String getFirstName() { 
