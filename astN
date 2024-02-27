@@ -1,0 +1,5 @@
+       tring)fInfo.get("firstName"); 
+    } 
+    public void setFirstName(String param1) { 
+        if (param1 != null) 
+        fInfo.put("firstName", param1); 
