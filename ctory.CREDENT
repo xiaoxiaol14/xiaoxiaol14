@@ -1,0 +1,5 @@
+  credentials.put(ApiContextFactory.CREDENTIAL_USERNAME, username); 
+  credentials.put(ApiContextFactory.CREDENTIAL_PASSWORD, password); 
+ 
+  // Attempt to authenticate using the credentials 
+  IApiContext apiContext = ApiContextFactory.createApiContext(credentials); 
