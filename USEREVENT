@@ -1,0 +1,6 @@
+
+    bullet_supply = supply.Bullet_Supply(bg_size)
+    bomb_supply = supply.Bomb_Supply(bg_size)
+    SUPPLY_TIME = USEREVENT
+    pygame.time.set_timer(SUPPLY_TIME, 30 *1000)
+ 
