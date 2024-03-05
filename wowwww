@@ -1,0 +1,5 @@
+                irons.add(new Iron(j * 50, i * 50));
+                p.repaint();
+                try {
+                    Thread.sleep(5);
+                } catch (InterruptedException e) {
