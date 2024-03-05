@@ -1,0 +1,4 @@
+        for (int i = allTanks.size(); i < enemyBorns.size() + 1; i++) {
+            try {
+                int temp = r.nextInt(enemyBorns.size());
+                enemyTank = new Tank(enemyBorns.get(temp).getX(), enemyBorns
