@@ -1,0 +1,6 @@
+					clrscr();
+					puts("==================================");
+					puts("|   Please select Credit money:  |");
+					puts("|   1. $50                       |");
+					puts("|   2. $100                      |");
+					puts("|   3. Return              
