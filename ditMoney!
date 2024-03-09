@@ -1,0 +1,5 @@
+					CreditMoney = getch();
+				}while( CreditMoney!='1' && CreditMoney!='2' && CreditMoney!='3' );
+				switch(CreditMoney)
+				{
+					case '1':
