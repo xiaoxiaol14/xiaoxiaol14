@@ -1,0 +1,4 @@
+#define M sizeof(unsigned int)*8
+int trans(unsigned n, int d, char s[])
+{
+	static char digits[] ="0123456789ABCDEF"; 
