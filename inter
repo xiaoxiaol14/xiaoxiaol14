@@ -1,0 +1,5 @@
+printer = Turtle()    
+printer.hideturtle()
+printer.penup()
+printer.color('red')
+printer.goto(-100,-350)
