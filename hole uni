@@ -1,0 +1,5 @@
+printer.write("In the whole universe\n\n",move = True, align="left", font=("Italic", 30, "bold"))
+printer.goto(-50,-400)
+printer.write("YZ I only love you!\n\n",move = True, align="left", font=("Italic", 30, "bold"))
+t = Turtle(visible = False,shape='circle')
+t.pencolor("white")       
