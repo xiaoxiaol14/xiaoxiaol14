@@ -1,0 +1,4 @@
+                fileWriter.write(Objects.toString(i)+"\r\n");
+            }
+            fileWriter.close();
+            long useTime = System.currentTimeMillis()-start;
