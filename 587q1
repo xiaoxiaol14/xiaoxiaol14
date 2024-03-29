@@ -1,0 +1,3 @@
+  etime = new Date();
+  SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+  String time = dateFormat.format(this.etime);
