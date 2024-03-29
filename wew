@@ -1,0 +1,9 @@
+
+  return id + "\t" + money + "\t" + stime;
+ }
+
+ public CarParking(int id, String state) {
+
+  this.id = id;
+  this.state = state;
+ }
